@@ -1,2 +1,3 @@
-# app-lanchonete
- Aplicativo de lanchonete
+# Projeto Lanchonete
+
+Repositório com layout para um webapp
